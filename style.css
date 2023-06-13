@@ -1,0 +1,38 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;    
+}
+
+.note {
+    font-size: 15px;
+    color:black;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(103, 97, 139);
+    line-height: 3;
+    text-align: center;
+    font-family: 'Fredoka';
+    font-weight: 700;
+    font-size: 20;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+h3 {
+    background-color: cadetblue;
+    font-family: 'Fredoka';
+    height: 70px;
+    border-radius: 20px;
+    color:white;
+}
